@@ -1,0 +1,31 @@
+div {
+    text-align: center;
+}
+header {
+    font-size: x-large;
+    font-weight: bold;
+}
+#velog {
+    font-size: small;
+    color: gray;
+    text-decoration: none;
+}
+#velog:hover {
+    color: black;
+}
+#github {
+    font-size: small;
+    color: gray;
+    text-decoration: none;
+}
+#github:hover {
+    color: black;
+}
+#last-updated {
+    text-align: left;
+    margin-bottom: 5px;
+}
+.small-text {
+    font-size: x-small;
+    text-decoration: underline;
+}
