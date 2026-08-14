@@ -1,0 +1,21 @@
+header h1 {
+    font-size: x-large;
+    font-weight: bold;
+}
+.small-text {
+    font-size: x-small;
+    text-decoration: underline;
+}
+#velog, #github {
+    text-decoration: none;
+    color: gray
+}
+#velog:hover, #github:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: large;
+    }
+}
